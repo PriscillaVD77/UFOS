@@ -6,3 +6,6 @@ color: #f7f7f7;
     background-size: 100% 100%;
     text-align: center;
 }
+.list-group-item {
+    color: black;
+}
