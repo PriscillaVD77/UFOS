@@ -4,8 +4,8 @@ In this analysis, we utilize html and JavaScript to build a dynamic webpage that
 ### Purpose
 Our new client is a data journalist who has the opportunity to write about UFOS in her hometown. Our client has a JavaScript file that is filled with sighting information. They have requested our help to display the data as a table and allow user manipulation of the data in a tidy html webpage.
 ### Results
-**Our website can be found**: https://priscillavd77.github.io/UFOS/
-In our code, in our app.js file, we were able to add a filter that allow users to sift through data using specified criteria. We used the following code:
+**Our website can be found**: https://priscillavd77.github.io/UFOS/ <br>
+In our app.js file, we were able to add a filter that allow users to sift through data using specified criteria. We used the following code:
 
 ![filter_code](resources/filter_code.png)
 
