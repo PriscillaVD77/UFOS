@@ -8,11 +8,11 @@ In our code, in our app.js file, we were able to add a filter that allow users t
 
 ![filter_code](resources/filter_code.png)
 
-This code allows the page to detect when a user has entered input. When input is changed, they press enter, or switch to add a new input, the data is updated to only the data the user has filtered. <br>
+This code allows the page to detect when a user has entered input. When input is changed, they press enter, or switch to add a new input, the data is updated to only the data the user has filtered. 
 
 ![search_date](resources/search-date.png) 
 
-This image shows that once the user begins to search in the filter, the table is updated. The user can also search mulitple criterias at once. The following image shows how users can do so with this exmample searching two or even three filters at a time. <br>
+This image shows that once the user begins to search in the filter, the table is updated. The user can also search mulitple criterias at once. The following image shows how users can do so with this exmample searching two or even three filters at a time.
 
 ![search_two](Resources/search_two.png) 
 
