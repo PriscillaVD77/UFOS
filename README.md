@@ -4,24 +4,20 @@ In this analysis, we utilize html and JavaScript to build a dynamic webpage that
 ### Purpose
 Our new client is a data journalist who has the opportunity to write about UFOS in her hometown. Our client has a JavaScript file that is filled with sighting information. They have requested our help to display the data as a table and allow user manipulation of the data in a tidy html webpage.
 ### Results
-In our code, in our app.js file, we were able to add a filter that allow users to sift through data using specified criteria. We used the following code: <br>
-<br>
+In our code, in our app.js file, we were able to add a filter that allow users to sift through data using specified criteria. We used the following code:
 
-![filter_code](Resources/filter_code.png)
-<br>
+![filter_code](resources/filter_code.png)
+
 This code allows the page to detect when a user has entered input. When input is changed, they press enter, or switch to add a new input, the data is updated to only the data the user has filtered. <br>
-<br>
 
-![search_date](Resources/search-date.png) 
-<br>
+![search_date](resources/search-date.png) 
+
 This image shows that once the user begins to search in the filter, the table is updated. The user can also search mulitple criterias at once. The following image shows how users can do so with this exmample searching two or even three filters at a time. <br>
-<br>
 
-![search_two](Resources/search_two.png) <br>
-<br>
+![search_two](Resources/search_two.png) 
 
-![three_filters](Resources/three_filters.png)<br>
-<br>
+
+![three_filters](Resources/three_filters.png)
 
 Users can search using all the filters or just some of the filters and the data will be updated and changed accordingly.
 ### Summary:
